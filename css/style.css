@@ -1,0 +1,103 @@
+*{
+    margin: 0px;
+    font-family:sans-serif;
+    
+    }
+
+.secone{
+height:100vh;
+width: 100%;
+background-image:url(../images/image.jpg);
+background-size: cover;
+padding-top: 30px;
+
+
+
+}
+
+.logo{
+    height: 10px;
+    
+    
+    }
+
+.navbar{
+display: flex;
+align-items: center;
+justify-content: space-between;
+margin-top: 10px;
+padding-right: 20px;
+padding-left: 10px;
+
+}
+.list{
+color: white;
+display: inline;
+text-decoration: none;
+font-weight: bold;
+justify-content: space-between;
+
+}
+.menu{
+color: white;
+text-decoration: none;
+
+    
+}
+.apply{
+border: solid;
+border-width:2px;
+color: rgb(255, 255, 255);
+text-decoration: none;
+padding-top: 8px;
+padding-bottom: 8px;
+padding-right: 10px;
+padding-left: 10px;
+font-weight: 40px;
+border-radius: 10px; 
+margin-top: 30px;
+}
+
+.centert {
+display: flex;
+height: 80vh;
+width: 100%;
+margin-top: 30px;
+align-items: center;
+justify-content: center;
+flex-direction: column;
+
+
+}
+
+.image2{
+height: 8px;
+width: 15px;
+}
+
+.centert button{
+background-color: red;
+border list-style-position: ;: solid;
+border-radius: 20px;border-color: red;
+color: white;
+padding-right: 10px;
+padding-left: 10px;
+margin-top: 30px;
+}
+
+.btn:hover{
+background-color: turquoise;
+border-style: solid;
+border width: 2px;
+border color:blue;
+
+
+
+
+}
+.centert h1{
+    font-size: 50px;
+    font-weight: bold;
+    font-family: Arial;
+    color: white;
+   }
